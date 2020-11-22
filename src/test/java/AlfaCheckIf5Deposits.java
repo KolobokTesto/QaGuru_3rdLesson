@@ -16,5 +16,4 @@ public class AlfaCheckIf5Deposits {
                 .findAll("div[data-widget-name=\"CatalogCard\"]")
                 .shouldHaveSize(5);
     }
-
 }
